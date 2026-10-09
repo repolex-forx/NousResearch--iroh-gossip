@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/iroh-gossip/commit/8e68fe0716fff25e962c5475a9840e14532aed7a",
       "git:hexsha": "8e68fe0716fff25e962c5475a9840e14532aed7a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-09T13:16:23.570396+00:00"
     }
   ]
 }
